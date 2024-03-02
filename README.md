@@ -1,3 +1,4 @@
+# ohayo
 # S2-python : Les notebooks + les projets 
 
 # Le planning prévisionnel 
